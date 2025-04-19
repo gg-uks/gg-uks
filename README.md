@@ -7,9 +7,24 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-   <p align="center">
+  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,spring,mysql,git,docker" />
   </a>
 </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gg-uks&count_private=true&show_icons=true&theme=solarized-light)  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=apache&logoColor=white"/>
+</p>
+
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gg-uks&count_private=true&show_icons=true&theme=solarized-light)
+
+
+  
+
