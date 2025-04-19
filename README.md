@@ -35,9 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gg-uks&count_private=true&show_icons=true&theme=solarized-light" />
 </p>
-<div align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle=gg-uks&theme=dark" alt="mazandi" />
-</div>
 
 
 
