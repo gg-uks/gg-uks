@@ -24,9 +24,5 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           <br/></div>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=gg-uks&bg_color=60,bcbddc,e3d9d9&title_color=2a2a27&text_color=2a2a27"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gg-uks&layout=compact&bg_color=60,bcbddc,e3d9d9&title_color=2a2a27&text_color=2a2a27"
-           /> </div> 
-    </div>
+    
     
